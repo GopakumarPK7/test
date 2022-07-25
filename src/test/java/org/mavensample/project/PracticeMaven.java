@@ -5,18 +5,18 @@ import org.testng.annotations.Test;
 public class PracticeMaven 
 {
 @Test
-public void practiceMaven()
+public void practiceMaven1()
 {
 System.out.println("TC -1");
 }
 @Test
-public void practiceMaven1()
+public void practiceMaven2()
 {
 System.out.println("TC - 2");
 
 }
 @Test
-public void practiceMaven2()
+public void practiceMaven3()
 {
 System.out.println("TC - 3");
 System.out.println("TC - 4");
