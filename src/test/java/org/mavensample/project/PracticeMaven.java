@@ -19,6 +19,5 @@ System.out.println("TC - 2");
 public void practiceMaven3()
 {
 System.out.println("TC - 3");
-System.out.println("TC - 4");
 }
 }
